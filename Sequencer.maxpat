@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 79.0, 277.0, 1295.0, 452.0 ],
+		"rect" : [ 128.0, 359.0, 1295.0, 452.0 ],
 		"bgcolor" : [ 0.475352, 0.475429, 0.475332, 1.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -1143,13 +1143,15 @@
 					"fontsize" : 11.595187,
 					"frgb" : 0.0,
 					"id" : "obj-117",
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 967.75, 196.5, 100.0, 19.0 ],
+					"patching_rect" : [ 967.75, 196.5, 100.0, 32.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 671.68866, 379.0, 100.0, 19.0 ],
-					"text" : "Right Delay Time"
+					"presentation_linecount" : 2,
+					"presentation_rect" : [ 671.68866, 379.0, 100.0, 32.0 ],
+					"text" : "Right Delay Time (ms)"
 				}
 
 			}
@@ -1181,13 +1183,15 @@
 					"fontsize" : 11.595187,
 					"frgb" : 0.0,
 					"id" : "obj-125",
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 958.25, 146.5, 93.0, 19.0 ],
+					"patching_rect" : [ 958.25, 146.5, 93.0, 32.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 433.154846, 379.0, 93.0, 19.0 ],
-					"text" : "Left Delay Time"
+					"presentation_linecount" : 2,
+					"presentation_rect" : [ 433.154846, 379.0, 93.0, 32.0 ],
+					"text" : "Left Delay Time (ms)"
 				}
 
 			}
@@ -11710,7 +11714,7 @@
 					"patching_rect" : [ 32.0, 540.0, 59.5, 20.0 ],
 					"restore" : 					{
 						"Sequencer" : [ 0, 0, 1, 2, 1, 1, 4, 2, 1, 6, 3, 1, 8, 4, 1, 10, 5, 1, 12, 6, 1, 14, 7, 1 ],
-						"Sequencer[1]" : [ 0, 2, 1, 6, 0, 1, 6, 1, 1, 6, 3, 1, 6, 4, 1, 6, 5, 1, 6, 6, 1, 6, 7, 1 ]
+						"Sequencer[1]" : [ 0, 0, 1, 0, 1, 1, 0, 2, 1, 0, 3, 1, 0, 4, 1, 0, 5, 1, 0, 6, 1, 0, 7, 1 ]
 					}
 ,
 					"text" : "autopattr",
